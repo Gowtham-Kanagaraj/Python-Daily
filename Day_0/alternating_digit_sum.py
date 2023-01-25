@@ -3,6 +3,12 @@ class Solution:
         sign = 1
         total = 0
         for x in (str(n)):
-            toatal += sign * int(x)
+            total += sign * int(x)
             sign *= -1
         return total
+
+s = Solution()
+n = 25
+result = s.alternate_digit_sum(n)
+print(result)
+
