@@ -1,1 +1,3 @@
-# Python-Daily-Challenge
+# Python-Daily
+
+Welcome to the Python Daily repository! 
